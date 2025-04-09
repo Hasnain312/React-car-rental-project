@@ -1,0 +1,9 @@
+.box{
+    background-image: url('/images/bg.jpeg');
+    background-size: cover;
+    /* height: 100vh; */
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    display: block;
+}

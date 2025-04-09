@@ -1,0 +1,6 @@
+.image{
+    background-image: url('/images/bg.jpeg');
+    background-size: cover;
+     height: 100vh;
+     background-repeat: no-repeat;
+}
